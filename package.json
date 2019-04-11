@@ -3,6 +3,16 @@
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/RichiCoder1/rabblex/",
+    "type": "git"
+  },
+  "author": {
+    "name": "Richard Simpson",
+    "email": "richardsimpson@outlook.com",
+    "url": "https://github.com/RichiCoder1"
+  },
+  "description": "Simple helper library for using mobx with hooks",
   "scripts": {
     "build": "webpack",
     "lint": "eslint src/**/*.{ts,tsx}"
